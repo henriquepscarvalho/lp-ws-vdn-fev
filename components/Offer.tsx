@@ -68,7 +68,7 @@ const Offer: React.FC = () => {
           </div>
 
           <a 
-             href="https://links.viverdeblog.com/workshop-viver-de-news-17-01-2026"
+             href="https://links.viverdeblog.com/ws-vdn-fev-checkout"
              target="_blank"
              rel="noopener noreferrer"
              className="w-full sm:w-auto min-w-[300px] bg-green-500 hover:bg-green-400 text-white font-bold py-5 px-8 rounded-xl text-xl shadow-[0_4px_14px_0_rgba(34,197,94,0.39)] transition-all transform hover:scale-105 mb-8 inline-flex justify-center items-center"

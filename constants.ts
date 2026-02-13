@@ -76,15 +76,15 @@ export const BONUSES: BonusItem[] = [
 export const MENTORS: Mentor[] = [
   {
     name: "Henrique Carvalho (HC)",
-    role: "Escritor e fundador do Viver de Blog",
-    bio: "Faturou mais de R$ 10 milhões usando apenas e-mail marketing e conteúdo escrito. Acredita que 'A escrita liberta'.",
-    image: "https://picsum.photos/id/1062/400/400" // Placeholder
+    role: "Fundador da Alquimia da Mente",
+    bio: "Pioneiro do Marketing de Conteúdo no Brasil. Há mais de 16 anos transformando palavras em impérios digitais, com múltiplos 8 dígitos faturados.",
+    image: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ac350e67-6ced-4898-a467-7306c90cdde2/image.png?t=1768250485"
   },
   {
-    name: "Lucas",
-    role: "Copywriter e Estrategista",
-    bio: "Vendeu mais de R$ 200 milhões em campanhas na Empiricus, a maior empresa de newsletter financeira do Brasil.",
-    image: "https://picsum.photos/id/1025/400/400" // Placeholder
+    name: "Lucas Antônio (Lucão)",
+    role: "Fundador da Copyletter",
+    bio: "Copywriter & Estrategista. Responsável por vender mais de R$ 200 milhões em campanhas na Empiricus, a maior empresa de newsletter financeira do Brasil.",
+    image: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/02714deb-944c-4a25-b5dd-28a1f7beb38c/lucas-imagem.png?t=1767044178"
   }
 ];
 

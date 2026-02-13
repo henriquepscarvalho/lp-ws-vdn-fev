@@ -41,10 +41,10 @@ const App: React.FC = () => {
         }`}
       >
         <a 
-          href="https://links.viverdeblog.com/workshop-viver-de-news-17-01-2026"
+          href="https://links.viverdeblog.com/ws-vdn-fev-checkout"
           target="_blank"
           rel="noopener noreferrer"
-          className="block w-full text-center bg-gold-500 text-black font-bold py-3 rounded-lg shadow-lg active:scale-95 transition-transform"
+          className="block w-full text-center bg-green-500 text-white font-bold py-3 rounded-lg shadow-lg active:scale-95 transition-transform"
         >
           QUERO MINERAR OURO (R$ 47)
         </a>

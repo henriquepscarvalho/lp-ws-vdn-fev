@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
         </div>
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-white mb-6 leading-tight">
-          Monte em um único dia o plano mestre que irá desbloquear sua newsletter para faturar <span className="text-gold-400">seus primeiros R$ 6.000/mês</span>
+          Monte em 4 horas o plano mestre para sua newsletter faturar <span className="text-gold-400">R$ 6.000/mês</span>
         </h1>
 
         <p className="text-xl sm:text-2xl text-slate-300 mb-10 font-light leading-relaxed">
@@ -41,10 +41,10 @@ const Hero: React.FC = () => {
         </div>
 
         <a 
-          href="https://links.viverdeblog.com/workshop-viver-de-news-17-01-2026"
+          href="https://links.viverdeblog.com/ws-vdn-fev-checkout"
           target="_blank"
           rel="noopener noreferrer"
-          className="group relative inline-flex items-center justify-center gap-3 bg-gold-500 hover:bg-gold-400 text-slate-950 text-lg sm:text-xl font-bold py-5 px-10 rounded-xl transition-all duration-200 transform hover:scale-105 shadow-[0_0_20px_rgba(234,179,8,0.3)] hover:shadow-[0_0_30px_rgba(234,179,8,0.5)]"
+          className="group relative inline-flex items-center justify-center gap-3 bg-green-500 hover:bg-green-400 text-white text-lg sm:text-xl font-bold py-5 px-10 rounded-xl transition-all duration-200 transform hover:scale-105 shadow-[0_0_20px_rgba(34,197,94,0.3)] hover:shadow-[0_0_30px_rgba(34,197,94,0.5)]"
         >
           QUERO GARANTIR MINHA VAGA POR R$ 47
           <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
