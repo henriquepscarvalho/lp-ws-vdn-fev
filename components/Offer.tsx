@@ -41,7 +41,18 @@ const Offer: React.FC = () => {
             </span>
           </div>
 
-          <h3 className="text-2xl text-slate-300 mb-6">O Investimento</h3>
+          <h3 className="text-2xl text-slate-300 mb-4">O Investimento</h3>
+
+          {/* Progress bar - vagas vendidas */}
+          <div className="max-w-sm mx-auto mb-6">
+            <div className="flex justify-between text-sm mb-2">
+              <span className="text-gold-500 font-semibold">18% vendido</span>
+              <span className="text-slate-500">100 vagas</span>
+            </div>
+            <div className="w-full bg-slate-800 rounded-full h-2.5">
+              <div className="bg-gold-500 h-2.5 rounded-full" style={{ width: '18%' }}></div>
+            </div>
+          </div>
           <p className="text-slate-400 max-w-lg mx-auto mb-8">
             O valor real de tudo isso (Workshop + Bônus) passa de <span className="line-through decoration-red-500 decoration-2">R$ 1.500</span>.
             Mas para criar uma barreira de entrada baixa, seu investimento hoje é:

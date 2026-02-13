@@ -6,20 +6,20 @@ const Story: React.FC = () => {
     <section className="py-20 px-4 bg-slate-950">
       <div className="max-w-6xl mx-auto">
         
-        {/* Janeiro Dourado */}
+        {/* Mina de Ouro */}
         <div className="mb-20 text-center max-w-3xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Janeiro Dourado: <span className="text-gold-500">A Mina Está Aberta</span></h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-6"><span className="text-gold-500">A Mina de Ouro Está Aberta</span></h2>
           <p className="text-slate-300 text-lg mb-8">
-            Existe uma razão pela qual chamamos este mês de "Janeiro Dourado". Três forças raras se alinham agora:
+            Três forças raras se alinham agora para quem quer construir uma newsletter lucrativa:
           </p>
           <div className="grid md:grid-cols-3 gap-6 text-left">
             <div className="bg-slate-900 border border-slate-800 p-6 rounded-lg">
               <h3 className="text-white font-bold mb-2">1. Atenção Disponível</h3>
-              <p className="text-slate-400 text-sm">Sua audiência voltou das férias com a mente fresca e procurando novidades.</p>
+              <p className="text-slate-400 text-sm">As pessoas estão cansadas de algoritmos. E-mail é o canal mais direto para a atenção delas.</p>
             </div>
             <div className="bg-slate-900 border border-slate-800 p-6 rounded-lg">
-              <h3 className="text-white font-bold mb-2">2. Espaço Mental</h3>
-              <p className="text-slate-400 text-sm">Você ainda não foi engolido pelo caos e reuniões do ano.</p>
+              <h3 className="text-white font-bold mb-2">2. Mercado Aquecido</h3>
+              <p className="text-slate-400 text-sm">Newsletters estão gerando milhões. O mercado cresce e ainda tem espaço para quem entra agora.</p>
             </div>
             <div className="bg-slate-900 border border-slate-800 p-6 rounded-lg">
               <h3 className="text-white font-bold mb-2">3. Concorrência Dormindo</h3>

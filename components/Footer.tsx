@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
     <footer className="py-20 px-4 bg-black text-center border-t border-slate-900">
       <div className="max-w-2xl mx-auto">
         <h2 className="text-2xl md:text-3xl font-bold text-white mb-6">
-          O Grande Garimpo abre dia 17 de Janeiro.
+          O Grande Garimpo abre dia 28 de Fevereiro.
         </h2>
         
         <div className="bg-slate-900 p-6 rounded-xl border border-slate-800 mb-8 text-left inline-block">

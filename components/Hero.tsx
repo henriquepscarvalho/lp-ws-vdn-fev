@@ -9,11 +9,11 @@ const Hero: React.FC = () => {
       <div className="relative z-10 max-w-4xl mx-auto text-center">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-gold-500/10 border border-gold-500/20 text-gold-400 text-sm font-medium mb-8">
           <span className="flex h-2 w-2 rounded-full bg-gold-500 animate-pulse"></span>
-          Workshop Ao Vivo • 17 de Janeiro
+          Workshop Ao Vivo • 28 de Fevereiro
         </div>
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-white mb-6 leading-tight">
-          Monte em um único dia o plano mestre que irá desbloquear sua newsletter para faturar <span className="text-gold-400">seus primeiros R$ 10.000</span>
+          Monte em um único dia o plano mestre que irá desbloquear sua newsletter para faturar <span className="text-gold-400">seus primeiros R$ 6.000/mês</span>
         </h1>
 
         <p className="text-xl sm:text-2xl text-slate-300 mb-10 font-light leading-relaxed">
@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
             <div className="hidden sm:block h-4 w-px bg-slate-600"></div>
             <div className="flex items-center gap-2">
               <Calendar className="w-5 h-5 text-gold-500" />
-              <span>17 de Jan (09h - 13h)</span>
+              <span>28 de Fev (09h - 13h)</span>
             </div>
             <div className="hidden sm:block h-4 w-px bg-slate-600"></div>
             <div className="flex items-center gap-2">
